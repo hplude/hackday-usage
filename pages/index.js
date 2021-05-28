@@ -33,7 +33,7 @@ export default function Home({ allPostsData }) {
             </li>
           ))}
         </ul>
-      </section>
+      </section> 
     </Layout>
   )
 }
